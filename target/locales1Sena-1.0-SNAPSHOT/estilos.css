@@ -294,3 +294,31 @@ body {
     font-size: 1.2rem;
     cursor: pointer;
 }
+.form{
+    background: #ffffff;
+    padding: 10rem;
+}
+main{
+    margin-top: 12rem;
+    width: 40rem;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+
+input{
+    width: 20rem;
+    height: 2rem;
+    border: 2px solid #000000;
+}
+h1{
+    color: #00cc00;
+    margin-top: 6rem;
+}
+
+.btn-submit{
+    background-color: #00cc00;
+    width: 25rem;
+    height: 4rem;
+    cursor: pointer;
+}
